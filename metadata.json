@@ -1,0 +1,7 @@
+{
+  "name": "AI Influencer OS & Claude Studio",
+  "description": "الدليل الشامل ومنظومة بناء مؤثر ذكاء اصطناعي (AI Influencer) احترافي باستخدام Claude وHiggsfield وBlender مع خطة نمو إنستغرام لمليون متابع وميزانية 100 دولار شهرياً ومكتبات GitHub مفتوحة المصدر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
